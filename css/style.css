@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=Sevillana&display=swap');
+
+body {
+background-color: beige;
+
+ }
+.heading {
+    font-family: "Playwrite CU", cursive;
+color: blueviolet;
+ }
+.image {
+   width: 250px; 
+ }
+
+.ingredients {
+border: 1px solid black;
+width: 50%;
+margin-right: 50%;
+color: blue;
+ }
+.ingredients-table{
+border: 1px solid black;
+margin-right: auto;
+ }
+
+.instructions{
+border: 1px solid black;
+width: 50%;
+margin-right: auto;
+color: brown;
+ }
+
+
+
+ .footer {
+
+    font-family: "Sevillana", cursive;
+    font-size: 1rem;
+
+}
